@@ -1,95 +1,10 @@
+---
+layout: default
+---
 
+<!--Text can be **bold**, _italic_, or ~~strikethrough~~.-->
 
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>GyuBin Hwang | 더 나은 내일을 위해</title>
-<meta name="generator" content="Jekyll v4.3.1" />
-<meta property="og:title" content="GyuBin Hwang" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="더 나은 내일을 위해" />
-<meta property="og:description" content="더 나은 내일을 위해" />
-<link rel="canonical" href="http://localhost:4000/" />
-<meta property="og:url" content="http://localhost:4000/" />
-<meta property="og:site_name" content="GyuBin Hwang" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="GyuBin Hwang" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"더 나은 내일을 위해","headline":"GyuBin Hwang","name":"GyuBin Hwang","url":"http://localhost:4000/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/assets/css/colors-auto.css?v=">
-    <link rel="stylesheet" href="/assets/css/style.css?v=">
-    <link rel="preload" href="" as="image">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css">
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-
-<!-- end custom head snippets -->
-
-  </head>
-  <body>
-    <div class="wrapper">
-      <div class="sidebar">
-        <header>
-    
-
-
-<h1>GyuBin Hwang</h1>
-
-
-
-<p class="addr"><i class="fa-solid fa-envelope"></i>&nbsp;<a href="mailto:spiralDailyDev@google.com">spiralDailyDev@google.com</a></p>
-
-
-
-
-<p>더 나은 내일을 위해</p>
-
-
-    
-
-    
-
-
-<div class="link-wrapper">
-  
-
-  
-</div>
-
-</header>
-        <div class="link-wrapper-mobile">
-    
-
-    
-</div>
-
-        <div class="sidebar-footer">
-    
-
-<p style="margin-bottom: 0px">
-    <small>
-        <a href="https://github.com/vaibhavvikas/jekyll-theme-minimalistic">Minimalistic</a> &mdash; Theme by 
-        <a href="https://github.com/vaibhavvikas/">vaibhavvikas</a>
-    </small>
-</p>
-</div>
-      </div>
-      <section>
-      <!--Text can be **bold**, _italic_, or ~~strikethrough~~.-->
-
-<p><a href="./posts/2023-01-19-architecture.html">Link to another page</a>.</p>
+[Link to another page](./posts/2023-01-19-architecture.html).
 
 <!--There should be whitespace between paragraphs.-->
 <!---->
@@ -207,25 +122,7 @@
 <!--The final element.-->
 <!--```-->
 
-<p>웹 페이지 만들기</p>
+웹 페이지 만들기 
 
-<ul>
-  <li>html이 아닌 다른 방식으로도 가능한지(react, rn, java script…)</li>
-  <li>레이아웃 직접 구현해보기</li>
-</ul>
-
-      </section>
-      <footer>
-    
-
-<p style="margin-bottom: 0px">
-    <small>
-        <a href="https://github.com/vaibhavvikas/jekyll-theme-minimalistic">Minimalistic</a> &mdash; Theme by 
-        <a href="https://github.com/vaibhavvikas/">vaibhavvikas</a>
-    </small>
-</p>
-</footer>
-    </div>
-    <script src="/assets/js/scale.fix.js"></script>
-  </body>
-</html>
+- html이 아닌 다른 방식으로도 가능한지(react, rn, java script...)
+- 레이아웃 직접 구현해보기
