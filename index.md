@@ -4,7 +4,7 @@ layout: default
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.-->
 
-[Link to another page](./posts/2023-01-19-architecture.html).
+[Flutter Architecture](./posts/2023-01-19-architecture.html)
 
 <!--There should be whitespace between paragraphs.-->
 <!---->
